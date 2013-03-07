@@ -1,9 +1,7 @@
 Smart Vase
 ==========
 
-This a smart vase augmented with and Arduino platform that provides you information, such as the new email messages, the weather or the traffic incidences, through a touch screen and LED lights.
-
-Steps to start the Smart Vase once you have connected the hardware following the wiki.
+Steps to start the Smart Vase once you have connected the hardware following the wiki and once you have uploaded the code to Arduino with the correct wifi parameters.
 
   1. Connect the vase to the mains.
   2. Wait until the display be turned on.
